@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Game Name</title>
+    <style>
+        html, body{
+            height:100%;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            background: #2a2a2a;
+            color:#cccccc;
+
+        }
+        #game {
+            width: inherit;
+            height: inherit;
+            image-rendering: optimizeSpeed;
+            -webkit-interpolation-mode: nearest-neighbor;
+            -ms-touch-action: none;
+            margin: 0;
+            padding: 0;
+            border: 0;
+        }
+        :-webkit-full-screen #game {
+            width: 100%;
+            height: 100%;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="game"></div>
+    <script src="scripts/phaser.min.js"></script>
+    <script src="scripts/nine-patch-phaser-plugin.js"></script>
+    <script src="scripts/app.js"></script>
+</body>
+</html>
