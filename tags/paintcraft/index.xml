@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paintcraft on Nikolay Kandalintsev</title>
+    <link>https://nicloay.com/tags/paintcraft/</link>
+    <description>Recent content in Paintcraft on Nikolay Kandalintsev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nicloay.com/tags/paintcraft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adults Coloring Book</title>
+      <link>https://nicloay.com/portfolio/7_coloringbook_adults/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/7_coloringbook_adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autism Therapy with MITA</title>
+      <link>https://nicloay.com/portfolio/8_imagiration/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/8_imagiration/</guid>
+      <description>&lt;p&gt;This is summary
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

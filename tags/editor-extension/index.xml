@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Editor Extension on Nikolay Kandalintsev</title>
+    <link>https://nicloay.com/tags/editor-extension/</link>
+    <description>Recent content in Editor Extension on Nikolay Kandalintsev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nicloay.com/tags/editor-extension/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Charmed Twist</title>
+      <link>https://nicloay.com/portfolio/2_charmed_twist/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/2_charmed_twist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node Inspector</title>
+      <link>https://nicloay.com/portfolio/3_node_inspector/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/3_node_inspector/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

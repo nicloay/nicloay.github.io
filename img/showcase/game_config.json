@@ -1,0 +1,29 @@
+{
+  "level_min":1,
+  "level_max":40,
+  "auto_start_level":40,
+  "locale" : "EN",
+  "show_social_buttons" : "off",
+
+  "debug_buttons"   : "off",
+  "debug_mode"      : "off",
+  "visual_profiler" : "off",
+
+  "zones" : [
+    {
+      "collection" : "zone1",
+      "from"       : 1,
+      "to"         : 20
+    },
+    {
+      "collection" : "zone2",
+      "from"       : 21,
+      "to"         : 40
+    }
+  ],
+
+  "analytics":{
+    "google" : "on",
+    "playfab" : "on"
+  }
+}

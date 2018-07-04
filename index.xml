@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikolay Kandalintsev</title>
+    <link>https://nicloay.com/</link>
+    <description>Recent content on Nikolay Kandalintsev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nicloay.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Charmed Twist</title>
+      <link>https://nicloay.com/portfolio/2_charmed_twist/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/2_charmed_twist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node Inspector</title>
+      <link>https://nicloay.com/portfolio/3_node_inspector/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/3_node_inspector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABC Mouse</title>
+      <link>https://nicloay.com/portfolio/4_abc_mouse/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/4_abc_mouse/</guid>
+      <description>&lt;p&gt;This is summary
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pipler</title>
+      <link>https://nicloay.com/portfolio/5_pipler_old/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/5_pipler_old/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dragon Kid</title>
+      <link>https://nicloay.com/portfolio/6_dragonkid/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/6_dragonkid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adults Coloring Book</title>
+      <link>https://nicloay.com/portfolio/7_coloringbook_adults/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/7_coloringbook_adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autism Therapy with MITA</title>
+      <link>https://nicloay.com/portfolio/8_imagiration/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/8_imagiration/</guid>
+      <description>&lt;p&gt;This is summary
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TaDaa - Color by number</title>
+      <link>https://nicloay.com/portfolio/9_colorbynumber/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/9_colorbynumber/</guid>
+      <description>&lt;p&gt;This is summary
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pipler (new)</title>
+      <link>https://nicloay.com/portfolio/10_pipler_new/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/10_pipler_new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colorus</title>
+      <link>https://nicloay.com/portfolio/1_colorus/</link>
+      <pubDate>Tue, 05 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicloay.com/portfolio/1_colorus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
