@@ -1,0 +1,158 @@
+{
+  "definitions": {
+    "ModApplyDamage": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "integer"
+        },
+        "type": {
+          "const": "!damage"
+        }
+      },
+      "required": [
+        "value",
+        "type"
+      ]
+    },
+    "ModCriticalHit": {
+      "type": "object",
+      "properties": {
+        "chance": {
+          "type": "number"
+        },
+        "mult": {
+          "type": "number"
+        },
+        "type": {
+          "const": "!crit"
+        }
+      },
+      "required": [
+        "chance",
+        "mult",
+        "type"
+      ]
+    },
+    "ModMaxDistance": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "number"
+        },
+        "type": {
+          "const": "!dist"
+        }
+      },
+      "required": [
+        "value",
+        "type"
+      ]
+    },
+    "ModSpeed": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "number"
+        },
+        "type": {
+          "const": "!speed"
+        }
+      },
+      "required": [
+        "value",
+        "type"
+      ]
+    },
+    "ProjectileConfig": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "prefabId": {
+          "type": "string",
+          "enum": [
+            "bolt",
+            "roundHead"
+          ]
+        },
+        "modifiers": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              {
+                "$ref": "#/definitions/ModApplyDamage"
+              },
+              {
+                "$ref": "#/definitions/ModSpeed"
+              },
+              {
+                "$ref": "#/definitions/ModCriticalHit"
+              },
+              {
+                "$ref": "#/definitions/ModMaxDistance"
+              }
+            ]
+          }
+        }
+      },
+      "required": [
+        "prefabId",
+        "modifiers"
+      ]
+    }
+  },
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "icon": {
+      "type": "string",
+      "enum": [
+        "none",
+        "renegade",
+        "cyclone",
+        "cascade",
+        "firestone",
+        "bullsEye"
+      ]
+    },
+    "prefabId": {
+      "type": "string",
+      "enum": [
+        "none",
+        "doubleGun"
+      ]
+    },
+    "chargeTime": {
+      "type": "integer"
+    },
+    "coolDownTime": {
+      "type": "integer"
+    },
+    "projectileCount": {
+      "type": "integer"
+    },
+    "projectile": {
+      "$ref": "#/definitions/ProjectileConfig"
+    },
+    "radarMaxRadius": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "id",
+    "icon",
+    "prefabId",
+    "chargeTime",
+    "coolDownTime",
+    "projectileCount",
+    "projectile",
+    "radarMaxRadius"
+  ]
+}
